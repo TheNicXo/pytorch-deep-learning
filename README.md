@@ -1,9 +1,11 @@
 # 🧠 PyTorch Deep Learning — Custom CNN Architecture
 
-![Subject](https://img.shields.io/badge/Subject-Deep%20Learning%20%2F%20CV-purple)
-![Type](https://img.shields.io/badge/Type-Model%20From%20Scratch-orange)
+![Subject](https://img.shields.io/badge/Subject-AI%20%2F%20Deep%20Learning-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CNN%20From%20Scratch-purple)
+![Type](https://img.shields.io/badge/Type-Computer%20Vision-orange)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-success)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
 
 Implémentation complète d'un réseau de neurones profond (*Convolutional Neural Network*) construit **from scratch** avec **PyTorch**. Ce projet couvre l'intégralité du pipeline Deep Learning : de la préparation des tenseurs et de la Data Augmentation jusqu'à la démo interactive sur interface Web.
 
